@@ -3,7 +3,7 @@
 This repository provides a boilerplate for Typescript projects.
 
 This template aims to provide a minimal set of tools and standard convention.
-And it includes **VERY** strict code linting.
+And it includes **VERY** strict type checking. please check [tsconfig.json](tsconfig.json) for details.
 
 - Typescript 4.6
 - Support Coding Convention
