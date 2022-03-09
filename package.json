@@ -1,6 +1,10 @@
 {
   "name": "typescript-boilerplate",
   "packageManager": "yarn@3.2.0",
+  "engines": {
+    "node": ">=16.14.0"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@tsconfig/node16": "^1.0.0",
     "@types/node": "^17.0.21",
